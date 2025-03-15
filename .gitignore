@@ -551,4 +551,14 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Node,react,Angular,VisualStudio
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#Node,react,Angular,VisualStudio,VisualStudioCode
